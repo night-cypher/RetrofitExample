@@ -12,9 +12,6 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;
 import retrofit2.http.POST;
 
-/**
- * Created by Belal on 11/5/2015.
- */
 public interface GetDoorAPI {
 
 
